@@ -19,13 +19,20 @@ The page asks for the data in deduction order. The molecular formula comes first
 
 ## Public app
 
+Repository: https://github.com/Ganapathy-bot/molecular-structure-deduction
+
 The app is set up for Streamlit Community Cloud from this repository.
 
 - Branch: `main`
 - Main file path: `streamlit_app.py`
 - Python version: 3.12
+- Secrets: leave empty
 
-In [Streamlit Community Cloud](https://share.streamlit.io/), choose **Create app**, then **Yup, I have an app**, and paste this repository URL. Leave secrets empty. The free public app is served at a `streamlit.app` address.
+In [Streamlit Community Cloud](https://share.streamlit.io/), choose **Create app**, then **Yup, I have an app**, and paste this file URL:
+
+https://github.com/Ganapathy-bot/molecular-structure-deduction/blob/main/streamlit_app.py
+
+The free public app is served at a `streamlit.app` address.
 
 ## Run the API
 
